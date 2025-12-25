@@ -10,4 +10,4 @@ while(a != n):
     else:
         print("Heigher no. please")
 
-print(f"You have guess the no. correctly in {guesses} attempt")
+print(f"You have guess the no. correctly in {guesses} attempts")
